@@ -103,7 +103,7 @@
         <version>2.1-alpha-1</version>
         <extensions>true</extensions>
         <configuration>
-          <copyright>2013 Senacor Technologies AG</copyright>
+          <copyright>Eclipse Public License Version 1.0</copyright>
           <group>Senacor/Packaging</group>
           <packager>Sebastian Rühl</packager>
           <defaultDirmode>750</defaultDirmode>
